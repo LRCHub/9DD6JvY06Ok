@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ストリーミングハート（feat. 初音ミク）",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-03-11T15:49:52.784375Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ストリーミングハート (feat. 初音ミク)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_ストリーミングハート_(feat._初音ミク)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ストリーミングハート (feat. 初音ミク)",
+      "artist": "DECO*27, Hatsune Miku",
+      "has_synced": true,
+      "path": "select/02_ストリーミングハート_(feat._初音ミク)_DECO_27,_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DECO*27 - ストリーミングハート feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/03_DECO_27_-_ストリーミングハート_feat._初音ミク_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ストリーミングハート feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/04_ストリーミングハート_feat._初音ミク_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ストリーミングハート feat. Hatsune Miku",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/05_ストリーミングハート_feat._Hatsune_Miku_DECO_27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ストリーミングハート (feat. 初音ミク)",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_ストリーミングハート_(feat._初音ミク)_DECO_27.txt"
+    }
+  ]
+}
